@@ -4,8 +4,7 @@
 
 # Clases del Curso de Svelte
 #### Proyecto del curso
-
-![proyect](https://static.platzi.com/media/landing-projects/svelte-proyecto.gif)
+<img src="https://static.platzi.com/media/landing-projects/svelte-proyecto.gif?raw=true" width="200px">
 
 ## Pugstagram
 
