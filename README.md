@@ -2,7 +2,14 @@
 
 ---
 
-# Pugstagram - svelte app
+# Clases del Curso de Svelte
+#### Proyecto del curso
+
+![proyect](https://static.platzi.com/media/landing-projects/svelte-proyecto.gif)
+
+## Pugstagram
+
+Crea una aplicación de red social tipo Instagram utilizando Svelte. Desarrolla los componentes de la aplicación y vincúlalos. Implementa estilos para dar una gran experiencia de usuario. Conecta una API a Pugstagram para obtener datos y finalmente desplegar la app en Internet.
 
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
